@@ -1,24 +1,9 @@
-👋 Olá!
-Sou um desenvolvedor Full Stack com experiência em várias linguagens e tecnologias, incluindo HTML, CSS, JavaScript, React, C#, PHP e Python.
+<h1 align="center">Olá 👋, Eu sou Nícolas Bispo</h1>
+<h3 align="center">Sou um desenvolvedor Full Stack com experiência em várias linguagens e tecnologias, incluindo HTML, CSS, JavaScript, React, C#, PHP e Python.</h3>
 
-🌟 Habilidades
-Desenvolvimento Web com HTML, CSS e JavaScript
-Desenvolvimento de aplicativos React
-Desenvolvimento back-end com C#, PHP e Python
-Banco de dados relacionais e NoSQL
-Desenvolvimento de API's RESTful
-💼 Experiência Profissional
-Desenvolvedor Full Stack na Empresa Construtora NewHome
-Desenvolvedor Web na Empresa Prefeitura Municipal de Americana
-Desenvolvedor JavaPlugin para SeedHost
-🚀 Projetos Destacados
-Blog CMS system: Sistema personalizado de CMS BLOG
-BookingSystem: Sistema de reserva de hotél com múltiplos anfitriões (airbnb)
-LandingPages: Projeto de HTML+CSS+JS puros para páginas estáticas 
-📚 Educação
-Formação superior em Segurança da Informação pela FATEC-Americana
-Curso complementar Desenvolvimento Web pela Alura - HTML+CSS+JS
-Curso complementar PHP pela Udemy
-📫 Contato
-LinkedIn: linkedin.com.br/in/nicolas-bispo
-E-mail: nicolasbispo.contato@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
