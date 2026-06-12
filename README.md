@@ -1,51 +1,65 @@
-<h1 align="left">Hi 👋 i'm Nícolas</h1>
+# Hi 👋 I'm Nícolas Bispo
 
-###
+### Full Stack Developer
 
-<h2 align="left">About me</h2>
+I'm a Full Stack Developer focused on building scalable web applications, APIs, and business systems.
 
-###
+### 🚀 About Me
 
-<p align="left">I'm a fullstack developer, specialized in NodeJS and Ruby on Rails<br>📚 Currently learning:  Java Spring Boot<br>🎲 Best stacks: NextJS/NestJS/Rails</p>
+* 💻 Experienced with **Node.js**, **Ruby on Rails**, **Java/Spring Boot**, **Kotlin/Spring Boot**, **ASP.NET Core**, and **Python**
+* 🌱 Currently deepening my knowledge in **software architecture**, **distributed systems**, and **enterprise application development**
+* ⚡ Main focus: Backend Development, API Design, and System Architecture
+* 🛠️ Building solutions with modern web technologies and cloud-native practices
 
-###
+---
 
-<h2 align="left">Work with</h2>
+## 🛠️ Technologies & Tools
 
-###
+### Backend
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo"  />
-  <img width="12" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="ASP.NET Core" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="Ruby on Rails" />
+</p>
 
+### Frontend
 
-<h4 align="left">Social networks</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+</p>
 
-###
+### Database & Infrastructure
 
-<div align="left">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/nicolas-bispo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/bispolas_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
-</div>
-
-###
+</p>
